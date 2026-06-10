@@ -52,7 +52,8 @@ Through this project, I learned:
 ## Author
 
 Shaurya Shukla
+Ksheerja Chaturvedi
+Anuradha Pandey
 
 B.Tech Computer Science & Engineering
 Krishna Institute of Technology
-Python Developer | Problem Solver | Learning Software Development
